@@ -2,7 +2,7 @@ venv/
 __pycache__/
 *.pyc
 .env
-artifacts/
 data/
+artifacts/
 .ipynb_checkpoints/
 .DS_Store
