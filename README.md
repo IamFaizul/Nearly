@@ -2,9 +2,7 @@
 
 AI-powered Visual Product Search using Deep Learning and Vector Similarity Search.
 
-## Test Image
 
-![Test](assets/image1.png)
 
 ## Overview
 
